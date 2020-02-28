@@ -1,0 +1,36 @@
+.container-fluid{
+  padding: 0;
+}
+
+
+/* NAVBAR ----------------------------------------------------------------------*/
+
+.brand-img{
+  width: 8%;
+  height: auto;
+}
+
+.bg{
+  background-color: black;
+}
+
+/* NAVBAR ----------------------------------------------------------------------*/
+
+/* HERO IMAGE ------------------------------------------------------------------ */
+
+.hero{
+  width: 100%;
+  height: auto;
+}
+
+/* .hero-image {
+  height: 75vh;
+  text-align: center;
+  overflow: hidden;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+} */

@@ -1,0 +1,142 @@
+body{
+  font-family: Montserrat;
+  line-height: 1.8;
+}
+
+h1{
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.line-ht{
+    line-height: 1.8;
+}
+
+.section{
+  padding-bottom: 6rem;
+}
+
+
+.img{
+  height: 180px;
+  width: auto;
+}
+
+.abt{
+  width:100%;
+  height: auto;
+}
+
+.bg{
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.4)),url("../res/hero2-01.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.light{
+color: white;
+line-height: 1.8;
+}
+
+.dark-green-bg{
+  background: #01d28e; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: #ffffff;
+}
+
+.brand-img{
+    height: 10%;
+
+}
+
+.navbar{
+  padding-top: 1.4rem;
+}
+
+.navbar .navbar-brand{
+  color: #FFFFFF;
+  font-weight: 700;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFFFFF;
+    padding: 0 20px;
+    letter-spacing: 0.03rem;
+
+}
+
+.join{
+  background-color: #01d28e;
+  color: #ffffff;
+  border-style: solid;
+  border-color: white;
+  padding-top: 0.8rem;
+  padding-bottom: 1.1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 40px;
+}
+
+.join:hover{
+  background-color: #ffffff;
+  color: #01d28e;
+  border-color: white;
+}
+
+.connect{
+  background-color: #01d28e;
+  color: #35495e;
+  border-style: solid;
+  border-color: #01d28e;
+  padding-top: 0.3rem;
+  padding-bottom: 0.45rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 40px;
+}
+
+.connect:hover{
+  background-color:#35495e;
+  color: #01d28e;
+  border-style: solid;
+  border-color: #01d28e;
+  border-width: 3px;
+}
+
+.coming-soon {
+  background-color: #01d28e;
+  color: #ffffff;
+  border-style: solid;
+  border-color: #01d28e;
+  padding-top: 0.8rem;
+  padding-bottom: 1.1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 40px;
+}
+
+.coming-soon:hover{
+  background-color: #ffffff;
+  color: #01d28e;
+  border-color: #01d28e;
+}
+
+.powerscope{
+
+border-color: #dadada;
+padding-top: 3rem;
+padding-bottom: 4rem;
+box-shadow: 10px 10px 15px #dadada;
+
+}
+
+.footer-bg{
+
+background-color: #35495e;
+}
+
+.copyright{
+  background-color: #2d334a;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+}
