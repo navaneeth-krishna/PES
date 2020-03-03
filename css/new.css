@@ -28,10 +28,11 @@ h1{
 }
 
 .bg{
-  background-image:  linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.4)),url("../res/hero2-01.png");
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.4)),url("../res/hero-01.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  width: 100%;
 }
 
 .light{
